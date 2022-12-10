@@ -1,0 +1,5 @@
+Answers:
+A. Search for a string within your excutable commands & use reverse-i-search to find past commands
+B. The -a switch lists all fils with hidden files
+C. Much better with compare to windows/mac,other OS doesn't give you that much freedom as Linux.
+D. No
